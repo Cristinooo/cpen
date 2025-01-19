@@ -1,4 +1,4 @@
-1、安装必须得库 ：
+1、安装必须得库 ：                                                                            
 python -m venv venv	                                      
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install requests beautifulsoup4 lxml pyjwt
